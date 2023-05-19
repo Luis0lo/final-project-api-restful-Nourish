@@ -73,3 +73,7 @@ Trello board as it broke down tasks that needed to be done.
 - Ability to customise saved recipes - swap out ingredients they don’t like or altered ingredient amounts. 
 - User profile that includes a dashboard of their details, favourite recipe, saved dietary requirement, location and shopping list.
 - Map function so they can search for local market shops in the nearby area to but local produce.
+
+## Migration
+As Heroku free tier doesn't exist anymore we did migrate our database to ElephantSQL and utilise Cyclic to deploy this repository
+
